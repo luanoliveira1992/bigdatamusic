@@ -1,4 +1,4 @@
-# Data Lake Musica
+# Data Lake Música
 
 ### Descrição :
  Este projeto trás uma estrutura básica de um data lake que armazenará dados de audios vindos do soundcloud.
