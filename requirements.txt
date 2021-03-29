@@ -54,7 +54,7 @@ ptyprocess==0.6.0 ; os_name != 'nt'
 py4j==0.10.7
 pycparser==2.19
 pydub==0.23.1
-pygments==2.4.2
+pygments==2.7.4
 pyopenssl==19.0.0
 pyparsing==2.4.0
 pyrsistent==0.15.2
